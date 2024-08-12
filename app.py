@@ -14,7 +14,7 @@ class_labels = {0: 'apple', 1: 'banana', 2: 'beans', 3: 'beef', 4: 'chicken', 5:
 
 # Streamlit UI
 st.set_page_config(page_title="Food Analyzer", layout="wide")
-st.title("🍽️ AI Food Analyzer")
+st.title("🍽️ ChowBot | AI Food Analyzer")
 
 # API Key input
 api_key = st.text_input("Enter your Gemini API Key", type="password")
