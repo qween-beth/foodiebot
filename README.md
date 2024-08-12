@@ -1,4 +1,4 @@
-# 🍽️ AI Food Analyzer
+# 🍽️ ChowBot | AI Food Analyzer
 
 Welcome to the **AI Food Analyzer** application, a Streamlit-based app designed to analyze food images using machine learning and generative AI. This app identifies food items from images, provides a nutritional breakdown, and suggests recipes using state-of-the-art AI models.
 
@@ -132,4 +132,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Thank you for checking out the AI Food Analyzer! If you have any questions or feedback, feel free to reach out or open an issue on the GitHub repository. Happy coding! 🎉
+Thank you for checking out the AI Food Analyzer! If you have any new ideas or workflows, feel free to reach out or open an issue on the GitHub repository. Cheers! 🎉
