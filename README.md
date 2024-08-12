@@ -1,6 +1,6 @@
 # 🍽️ ChowBot | AI Food Analyzer
 
-Welcome to the **AI Food Analyzer** application, a Streamlit-based app designed to analyze food images using machine learning and generative AI. This app identifies food items from images, provides a nutritional breakdown, and suggests recipes using state-of-the-art AI models.
+Welcome to the **AI Food Analyzer** application, called ChowBot designed to analyze food images using machine learning and generative AI. This app identifies food items from images, provides a nutritional breakdown, and suggests recipes using state-of-the-art AI models. Built on Gemini x Mobile Net Transformer.
 
 ## Table of Contents
 
