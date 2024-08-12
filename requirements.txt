@@ -1,8 +1,7 @@
-streamlit==1.24.0
-google-generativeai==1.0.0
+streamlit
+google-generativeai
 Pillow==9.5.0
-opencv-python-headless==4.7.0.72
-numpy==1.25.1
-tensorflow==2.13.0
-Flask==2.3.3
-Flask-Cors==3.1.0
+opencv-python-headless
+numpy
+tensorflow
+
