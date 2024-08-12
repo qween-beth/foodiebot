@@ -89,6 +89,8 @@ After uploading the image, the app will:
 3. Generate a nutritional breakdown and recipe suggestions using Gemini AI.
 4. Present the results clearly on the right-hand side of the interface.
 
+### About Me
+
 ## Project Structure
 
 ```plaintext
@@ -117,18 +119,8 @@ ai-food-analyzer/
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the project repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push to your forked repository.
-4. Open a pull request, describing the changes you have made.
-
-Please ensure your code adheres to the project's coding standards and passes all tests.
 
 ## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
