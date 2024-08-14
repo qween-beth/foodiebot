@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+Pillow==9.5.0
+opencv-python-headless
+numpy
+tensorflow
+
