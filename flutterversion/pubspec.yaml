@@ -1,7 +1,19 @@
+name: chowbot  # Replace with your project's name
+description: A new Flutter project.
+
+# Define the environment and Dart SDK version constraints
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+# Declare the dependencies your project needs
 dependencies:
   flutter:
     sdk: flutter
-  flutter_py: ^latest_version
-  environment:
-  sdk: '>=3.5.0 <4.0.0'
+  serious_python: ^0.7.1  # Assuming this is a valid package
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

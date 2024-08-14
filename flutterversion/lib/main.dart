@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_py/flutter_py.dart';
+import 'package:serious_python/serious_python.dart';
 
 void main() => runApp(MyApp());
 
