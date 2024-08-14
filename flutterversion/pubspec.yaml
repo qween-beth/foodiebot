@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_py: ^latest_version
+  environment:
+  sdk: '>=3.5.0 <4.0.0'
+
