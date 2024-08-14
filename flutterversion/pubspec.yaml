@@ -10,7 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   serious_python: ^0.7.1  # Assuming this is a valid package
-
+  image_picker: ^0.8.4+8
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
